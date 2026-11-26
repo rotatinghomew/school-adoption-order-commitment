@@ -1,0 +1,79 @@
+{
+  "documents": {
+    "centers": [
+      "id",
+      "name"
+    ],
+    "classrooms": [
+      "id",
+      "site",
+      "subject",
+      "count",
+      "starts",
+      "switch_lesson"
+    ],
+    "districts": [
+      "id",
+      "center",
+      "classroom",
+      "begin",
+      "end"
+    ],
+    "choices": [
+      "id",
+      "edition",
+      "subject",
+      "begin",
+      "end",
+      "fallback"
+    ],
+    "schemes": [
+      "id",
+      "centers",
+      "classes",
+      "book",
+      "minimum",
+      "distinct_centers"
+    ],
+    "exceptions": [
+      "id",
+      "classroom",
+      "book",
+      "decision",
+      "effective"
+    ]
+  },
+  "references": [
+    [
+      "districts",
+      "center",
+      "centers"
+    ],
+    [
+      "districts",
+      "classroom",
+      "classrooms"
+    ],
+    [
+      "schemes",
+      "centers",
+      "centers"
+    ],
+    [
+      "schemes",
+      "classes",
+      "classrooms"
+    ],
+    [
+      "schemes",
+      "book",
+      "choices"
+    ],
+    [
+      "exceptions",
+      "book",
+      "choices"
+    ]
+  ],
+  "scoped_ids": {}
+}

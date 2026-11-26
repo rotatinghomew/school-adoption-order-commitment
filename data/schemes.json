@@ -1,0 +1,32 @@
+[
+  {
+    "id": "set-01",
+    "centers": [
+      "c1",
+      "c2"
+    ],
+    "classes": [
+      "k1",
+      "k2",
+      "k3"
+    ],
+    "book": "vol-a",
+    "minimum": 3,
+    "distinct_centers": 2
+  },
+  {
+    "id": "set-02",
+    "centers": [
+      "c2",
+      "c3"
+    ],
+    "classes": [
+      "k2",
+      "k3",
+      "k4"
+    ],
+    "book": "vol-b",
+    "minimum": 3,
+    "distinct_centers": 2
+  }
+]

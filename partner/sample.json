@@ -1,0 +1,9 @@
+{
+  "operation_id": "sample-001",
+  "action": "adjust",
+  "supplier": "press-1",
+  "classroom": "k2",
+  "edition": "vol-a",
+  "quantity": 0,
+  "reserve_operation_id": "example-reservation"
+}

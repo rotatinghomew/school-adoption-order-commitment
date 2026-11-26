@@ -1,0 +1,37 @@
+[
+  {
+    "id": "district-1",
+    "center": "c1",
+    "classroom": "k1",
+    "begin": "2026-09-01",
+    "end": "2027-01-21"
+  },
+  {
+    "id": "district-2",
+    "center": "c1",
+    "classroom": "k2",
+    "begin": "2026-09-01",
+    "end": "2026-10-01"
+  },
+  {
+    "id": "district-3",
+    "center": "c2",
+    "classroom": "k2",
+    "begin": "2026-09-01",
+    "end": "2027-01-21"
+  },
+  {
+    "id": "district-4",
+    "center": "c2",
+    "classroom": "k3",
+    "begin": "2026-09-01",
+    "end": "2027-01-21"
+  },
+  {
+    "id": "district-5",
+    "center": "c3",
+    "classroom": "k4",
+    "begin": "2026-09-20",
+    "end": "2027-01-21"
+  }
+]

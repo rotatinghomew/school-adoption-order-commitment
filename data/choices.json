@@ -1,0 +1,26 @@
+[
+  {
+    "id": "vol-a",
+    "edition": "山地地理A",
+    "subject": "地理",
+    "begin": "2026-09-01",
+    "end": "2027-01-21",
+    "fallback": false
+  },
+  {
+    "id": "vol-b",
+    "edition": "沿江地理B",
+    "subject": "地理",
+    "begin": "2026-09-01",
+    "end": "2027-01-21",
+    "fallback": false
+  },
+  {
+    "id": "vol-c",
+    "edition": "通用地理C",
+    "subject": "地理",
+    "begin": "2026-09-01",
+    "end": "2027-01-21",
+    "fallback": true
+  }
+]

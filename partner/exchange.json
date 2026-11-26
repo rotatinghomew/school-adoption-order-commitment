@@ -1,0 +1,18 @@
+{
+  "route": "/order-lines",
+  "actions": {
+    "reserve": [
+      "supplier",
+      "classroom",
+      "edition",
+      "quantity"
+    ],
+    "adjust": [
+      "supplier",
+      "classroom",
+      "edition",
+      "quantity",
+      "reserve_operation_id"
+    ]
+  }
+}

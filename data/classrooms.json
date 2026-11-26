@@ -1,0 +1,34 @@
+[
+  {
+    "id": "k1",
+    "site": "site-a",
+    "subject": "地理",
+    "count": 25,
+    "starts": "2026-09-03",
+    "switch_lesson": 9
+  },
+  {
+    "id": "k2",
+    "site": "site-b",
+    "subject": "地理",
+    "count": 18,
+    "starts": "2026-09-04",
+    "switch_lesson": 12
+  },
+  {
+    "id": "k3",
+    "site": "site-c",
+    "subject": "地理",
+    "count": 12,
+    "starts": "2026-09-13",
+    "switch_lesson": null
+  },
+  {
+    "id": "k4",
+    "site": "site-d",
+    "subject": "地理",
+    "count": 8,
+    "starts": "2026-10-10",
+    "switch_lesson": null
+  }
+]

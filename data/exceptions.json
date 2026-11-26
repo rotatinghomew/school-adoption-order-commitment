@@ -1,0 +1,16 @@
+[
+  {
+    "id": "exception-b",
+    "classroom": "k2",
+    "book": "vol-b",
+    "decision": "申请改用",
+    "effective": "2026-09-20"
+  },
+  {
+    "id": "exception-b-approved",
+    "classroom": "k2",
+    "book": "vol-b",
+    "decision": "审核准许",
+    "effective": "2026-09-25"
+  }
+]
